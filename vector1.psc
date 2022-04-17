@@ -15,7 +15,7 @@ FinFuncion
 Algoritmo vector
 	Dimension notas[5]
 	Para i<--1 Hasta 5 Con Paso 1 Hacer
-		Escribir "Introduzca la nota del alumno"y,jjjjjjjjjj
+		Escribir "Introduzca la nota del alumno"y,
 		Leer notays[i]
 	FinPara
 	Escribir "Las notas son: "
