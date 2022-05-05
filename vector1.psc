@@ -27,4 +27,5 @@ Algoritmo vector
 		escribir maximo
 	FinPara
 	Escribir "La nota mÃ¡xima es: ", resultado_mayor
+	Escribir "La frase que añade Alexey"
 FinAlgoritmo
